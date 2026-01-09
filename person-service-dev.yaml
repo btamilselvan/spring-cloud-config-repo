@@ -1,1 +1,11 @@
 apiKey: 'xyz-ReDom-vbh-oImN-765cD'
+debug: false
+trocks.apiKey: 'T0OthP_st32o25'
+db:
+  username: 'dHJvY2tz'
+  password: 'VDBPdGhKX3N0MzJvNjU='
+  url: 'jdbc:mysql://address-db-host:3306/persondb'
+  driverClassName: 'com.mysql.cj.jdbc.Driver'
+
+greeting.message: "Greetings from person-service application.yaml file! this is a dev profile"
+hello.message: "Hello from person-service application.yaml file! this is a dev profile"

@@ -1,3 +1,12 @@
 name: address-service
 debug: false
 apiKey: 'xyz-12345-address'
+trocks.apiKey: 'T0tBSU1ZVEhPVVNHVEhPVQ=='
+db:
+  username: 'dHJvY2tz'
+  password: 'VDBPdGhKX3N0MzJvNjU='
+  url: 'jdbc:mysql://address-db-host:3306/addressdb'
+  driverClassName: 'com.mysql.cj.jdbc.Driver'
+
+greeting.message: "Greetings from address-service application.yaml file!"
+hello.message: "Hello from address-service application.yaml file!"
